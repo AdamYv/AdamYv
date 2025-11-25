@@ -7,4 +7,4 @@
 
 - I love exploring financial systems, data, and markets, and how algorithms can turn complexity into insight.
 
-- Check out my experiences [here](CV-Adam-G-en.png) 
+- Check out my experiences [here](CV.html)
