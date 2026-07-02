@@ -7,7 +7,6 @@
 
 - I love exploring financial systems, data, and markets, and how algorithms can turn complexity into insight.
 
-- Check out my experiences [here](https://adamyv.github.io/)
 
 
 <div align="center">
